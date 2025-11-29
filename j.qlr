@@ -1,0 +1,684 @@
+<!DOCTYPE qgis-layer-definition>
+<qlr>
+  <layer-tree-group name="" expanded="1" checked="Qt::Checked" groupLayer="">
+    <customproperties>
+      <Option/>
+    </customproperties>
+    <layer-tree-layer patch_size="-1,-1" name="untitled folder 4 — dev-bus-routes-metro-ptv" source="./untitled folder 4|layername=dev-bus-routes-metro-ptv" providerKey="ogr" legend_exp="" expanded="1" legend_split_behavior="0" id="dev_bus_routes_metro_ptv_6c2d2288_2c1a_4db7_a88b_3efe002c3c77" checked="Qt::Checked">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <maplayers>
+    <maplayer simplifyDrawingHints="1" symbologyReferenceScale="-1" simplifyLocal="1" minScale="100000000" simplifyDrawingTol="1" autoRefreshMode="Disabled" simplifyMaxScale="1" refreshOnNotifyEnabled="0" legendPlaceholderImage="" styleCategories="AllStyleCategories" labelsEnabled="0" hasScaleBasedVisibilityFlag="0" wkbType="MultiLineString" readOnly="0" autoRefreshTime="0" maxScale="0" type="vector" refreshOnNotifyMessage="" geometry="Line" simplifyAlgorithm="0">
+      <id>dev_bus_routes_metro_ptv_6c2d2288_2c1a_4db7_a88b_3efe002c3c77</id>
+      <datasource>./untitled folder 4|layername=dev-bus-routes-metro-ptv</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>untitled folder 4 — dev-bus-routes-metro-ptv</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt></wkt>
+          <proj4></proj4>
+          <srsid>0</srsid>
+          <srid>0</srid>
+          <authid></authid>
+          <description></description>
+          <projectionacronym></projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <dates/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal mode="0" endField="" fixedDuration="0" durationField="" durationUnit="min" startExpression="" endExpression="" enabled="0" startField="" limitMode="0" accumulate="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <elevation zoffset="0" extrusion="0" binding="Centroid" type="IndividualFeatures" symbology="Line" clamping="Terrain" zscale="1" showMarkerSymbolInSurfacePlots="0" extrusionEnabled="0" respectLayerSymbol="1">
+        <data-defined-properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data-defined-properties>
+        <profileLineSymbol>
+          <symbol name="" force_rhr="0" type="line" clip_to_extent="1" alpha="1" is_animated="0" frame_rate="10">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value=""/>
+                <Option name="properties"/>
+                <Option name="type" type="QString" value="collection"/>
+              </Option>
+            </data_defined_properties>
+            <layer locked="0" enabled="1" pass="0" id="{851ed963-6dda-4a54-a10c-b8b1eaa19198}" class="SimpleLine">
+              <Option type="Map">
+                <Option name="align_dash_pattern" type="QString" value="0"/>
+                <Option name="capstyle" type="QString" value="square"/>
+                <Option name="customdash" type="QString" value="5;2"/>
+                <Option name="customdash_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="customdash_unit" type="QString" value="MM"/>
+                <Option name="dash_pattern_offset" type="QString" value="0"/>
+                <Option name="dash_pattern_offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="dash_pattern_offset_unit" type="QString" value="MM"/>
+                <Option name="draw_inside_polygon" type="QString" value="0"/>
+                <Option name="joinstyle" type="QString" value="bevel"/>
+                <Option name="line_color" type="QString" value="152,125,183,255,rgb:0.59607843137254901,0.49019607843137253,0.71764705882352942,1"/>
+                <Option name="line_style" type="QString" value="solid"/>
+                <Option name="line_width" type="QString" value="0.6"/>
+                <Option name="line_width_unit" type="QString" value="MM"/>
+                <Option name="offset" type="QString" value="0"/>
+                <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="offset_unit" type="QString" value="MM"/>
+                <Option name="ring_filter" type="QString" value="0"/>
+                <Option name="trim_distance_end" type="QString" value="0"/>
+                <Option name="trim_distance_end_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="trim_distance_end_unit" type="QString" value="MM"/>
+                <Option name="trim_distance_start" type="QString" value="0"/>
+                <Option name="trim_distance_start_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="trim_distance_start_unit" type="QString" value="MM"/>
+                <Option name="tweak_dash_pattern_on_corners" type="QString" value="0"/>
+                <Option name="use_custom_dash" type="QString" value="0"/>
+                <Option name="width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </profileLineSymbol>
+        <profileFillSymbol>
+          <symbol name="" force_rhr="0" type="fill" clip_to_extent="1" alpha="1" is_animated="0" frame_rate="10">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value=""/>
+                <Option name="properties"/>
+                <Option name="type" type="QString" value="collection"/>
+              </Option>
+            </data_defined_properties>
+            <layer locked="0" enabled="1" pass="0" id="{e517a7e9-2013-4df7-9abd-810d5c7f7fb3}" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="color" type="QString" value="152,125,183,255,rgb:0.59607843137254901,0.49019607843137253,0.71764705882352942,1"/>
+                <Option name="joinstyle" type="QString" value="bevel"/>
+                <Option name="offset" type="QString" value="0,0"/>
+                <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="offset_unit" type="QString" value="MM"/>
+                <Option name="outline_color" type="QString" value="109,89,131,255,rgb:0.42575722896162355,0.35013351644159607,0.51259632257572285,1"/>
+                <Option name="outline_style" type="QString" value="solid"/>
+                <Option name="outline_width" type="QString" value="0.2"/>
+                <Option name="outline_width_unit" type="QString" value="MM"/>
+                <Option name="style" type="QString" value="solid"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </profileFillSymbol>
+        <profileMarkerSymbol>
+          <symbol name="" force_rhr="0" type="marker" clip_to_extent="1" alpha="1" is_animated="0" frame_rate="10">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value=""/>
+                <Option name="properties"/>
+                <Option name="type" type="QString" value="collection"/>
+              </Option>
+            </data_defined_properties>
+            <layer locked="0" enabled="1" pass="0" id="{98928c92-58bc-42cd-84ce-435e5f821e76}" class="SimpleMarker">
+              <Option type="Map">
+                <Option name="angle" type="QString" value="0"/>
+                <Option name="cap_style" type="QString" value="square"/>
+                <Option name="color" type="QString" value="152,125,183,255,rgb:0.59607843137254901,0.49019607843137253,0.71764705882352942,1"/>
+                <Option name="horizontal_anchor_point" type="QString" value="1"/>
+                <Option name="joinstyle" type="QString" value="bevel"/>
+                <Option name="name" type="QString" value="diamond"/>
+                <Option name="offset" type="QString" value="0,0"/>
+                <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="offset_unit" type="QString" value="MM"/>
+                <Option name="outline_color" type="QString" value="109,89,131,255,rgb:0.42575722896162355,0.35013351644159607,0.51259632257572285,1"/>
+                <Option name="outline_style" type="QString" value="solid"/>
+                <Option name="outline_width" type="QString" value="0.2"/>
+                <Option name="outline_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="outline_width_unit" type="QString" value="MM"/>
+                <Option name="scale_method" type="QString" value="diameter"/>
+                <Option name="size" type="QString" value="3"/>
+                <Option name="size_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="size_unit" type="QString" value="MM"/>
+                <Option name="vertical_anchor_point" type="QString" value="1"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </profileMarkerSymbol>
+      </elevation>
+      <renderer-v2 type="singleSymbol" symbollevels="0" referencescale="-1" enableorderby="0" forceraster="0">
+        <symbols>
+          <symbol name="0" force_rhr="0" type="line" clip_to_extent="1" alpha="1" is_animated="0" frame_rate="10">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value=""/>
+                <Option name="properties"/>
+                <Option name="type" type="QString" value="collection"/>
+              </Option>
+            </data_defined_properties>
+            <layer locked="0" enabled="1" pass="0" id="{88068af5-1eeb-4f50-af3a-161605cbb6b3}" class="SimpleLine">
+              <Option type="Map">
+                <Option name="align_dash_pattern" type="QString" value="0"/>
+                <Option name="capstyle" type="QString" value="square"/>
+                <Option name="customdash" type="QString" value="5;2"/>
+                <Option name="customdash_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="customdash_unit" type="QString" value="MM"/>
+                <Option name="dash_pattern_offset" type="QString" value="0"/>
+                <Option name="dash_pattern_offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="dash_pattern_offset_unit" type="QString" value="MM"/>
+                <Option name="draw_inside_polygon" type="QString" value="0"/>
+                <Option name="joinstyle" type="QString" value="bevel"/>
+                <Option name="line_color" type="QString" value="190,207,80,255,rgb:0.74509803921568629,0.81176470588235294,0.31372549019607843,1"/>
+                <Option name="line_style" type="QString" value="solid"/>
+                <Option name="line_width" type="QString" value="0.26"/>
+                <Option name="line_width_unit" type="QString" value="MM"/>
+                <Option name="offset" type="QString" value="0"/>
+                <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="offset_unit" type="QString" value="MM"/>
+                <Option name="ring_filter" type="QString" value="0"/>
+                <Option name="trim_distance_end" type="QString" value="0"/>
+                <Option name="trim_distance_end_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="trim_distance_end_unit" type="QString" value="MM"/>
+                <Option name="trim_distance_start" type="QString" value="0"/>
+                <Option name="trim_distance_start_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="trim_distance_start_unit" type="QString" value="MM"/>
+                <Option name="tweak_dash_pattern_on_corners" type="QString" value="0"/>
+                <Option name="use_custom_dash" type="QString" value="0"/>
+                <Option name="width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+        <data-defined-properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data-defined-properties>
+      </renderer-v2>
+      <selection mode="Default">
+        <selectionColor invalid="1"/>
+      </selection>
+      <customproperties>
+        <Option/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <legend showLabelLegend="0" type="default-vector"/>
+      <referencedLayers/>
+      <fieldConfiguration>
+        <field name="trip_headsi" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="route_short" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="route_long_" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="departure_t" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="arrival_tim" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="last_depart" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="last_arriva" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="start_stopi" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="end_stopid" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="daysofweek" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="frequency_0" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="frequency_0_1" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="frequency_1" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="frequency_1_1" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="frequency_1_2" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="service_pro" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="easting" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="northing" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="projection" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="shape_pt_la" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="shape_pt_lo" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="googlemaps_" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="gisfid" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="type_of_ser" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="hex_colour" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="linestyle" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="length_km" configurationFlags="NoFlag">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias name="" index="0" field="trip_headsi"/>
+        <alias name="" index="1" field="route_short"/>
+        <alias name="" index="2" field="route_long_"/>
+        <alias name="" index="3" field="departure_t"/>
+        <alias name="" index="4" field="arrival_tim"/>
+        <alias name="" index="5" field="last_depart"/>
+        <alias name="" index="6" field="last_arriva"/>
+        <alias name="" index="7" field="start_stopi"/>
+        <alias name="" index="8" field="end_stopid"/>
+        <alias name="" index="9" field="daysofweek"/>
+        <alias name="" index="10" field="frequency_0"/>
+        <alias name="" index="11" field="frequency_0_1"/>
+        <alias name="" index="12" field="frequency_1"/>
+        <alias name="" index="13" field="frequency_1_1"/>
+        <alias name="" index="14" field="frequency_1_2"/>
+        <alias name="" index="15" field="service_pro"/>
+        <alias name="" index="16" field="easting"/>
+        <alias name="" index="17" field="northing"/>
+        <alias name="" index="18" field="projection"/>
+        <alias name="" index="19" field="shape_pt_la"/>
+        <alias name="" index="20" field="shape_pt_lo"/>
+        <alias name="" index="21" field="googlemaps_"/>
+        <alias name="" index="22" field="gisfid"/>
+        <alias name="" index="23" field="type_of_ser"/>
+        <alias name="" index="24" field="hex_colour"/>
+        <alias name="" index="25" field="linestyle"/>
+        <alias name="" index="26" field="length_km"/>
+      </aliases>
+      <splitPolicies>
+        <policy field="trip_headsi" policy="Duplicate"/>
+        <policy field="route_short" policy="Duplicate"/>
+        <policy field="route_long_" policy="Duplicate"/>
+        <policy field="departure_t" policy="Duplicate"/>
+        <policy field="arrival_tim" policy="Duplicate"/>
+        <policy field="last_depart" policy="Duplicate"/>
+        <policy field="last_arriva" policy="Duplicate"/>
+        <policy field="start_stopi" policy="Duplicate"/>
+        <policy field="end_stopid" policy="Duplicate"/>
+        <policy field="daysofweek" policy="Duplicate"/>
+        <policy field="frequency_0" policy="Duplicate"/>
+        <policy field="frequency_0_1" policy="Duplicate"/>
+        <policy field="frequency_1" policy="Duplicate"/>
+        <policy field="frequency_1_1" policy="Duplicate"/>
+        <policy field="frequency_1_2" policy="Duplicate"/>
+        <policy field="service_pro" policy="Duplicate"/>
+        <policy field="easting" policy="Duplicate"/>
+        <policy field="northing" policy="Duplicate"/>
+        <policy field="projection" policy="Duplicate"/>
+        <policy field="shape_pt_la" policy="Duplicate"/>
+        <policy field="shape_pt_lo" policy="Duplicate"/>
+        <policy field="googlemaps_" policy="Duplicate"/>
+        <policy field="gisfid" policy="Duplicate"/>
+        <policy field="type_of_ser" policy="Duplicate"/>
+        <policy field="hex_colour" policy="Duplicate"/>
+        <policy field="linestyle" policy="Duplicate"/>
+        <policy field="length_km" policy="Duplicate"/>
+      </splitPolicies>
+      <duplicatePolicies>
+        <policy field="trip_headsi" policy="Duplicate"/>
+        <policy field="route_short" policy="Duplicate"/>
+        <policy field="route_long_" policy="Duplicate"/>
+        <policy field="departure_t" policy="Duplicate"/>
+        <policy field="arrival_tim" policy="Duplicate"/>
+        <policy field="last_depart" policy="Duplicate"/>
+        <policy field="last_arriva" policy="Duplicate"/>
+        <policy field="start_stopi" policy="Duplicate"/>
+        <policy field="end_stopid" policy="Duplicate"/>
+        <policy field="daysofweek" policy="Duplicate"/>
+        <policy field="frequency_0" policy="Duplicate"/>
+        <policy field="frequency_0_1" policy="Duplicate"/>
+        <policy field="frequency_1" policy="Duplicate"/>
+        <policy field="frequency_1_1" policy="Duplicate"/>
+        <policy field="frequency_1_2" policy="Duplicate"/>
+        <policy field="service_pro" policy="Duplicate"/>
+        <policy field="easting" policy="Duplicate"/>
+        <policy field="northing" policy="Duplicate"/>
+        <policy field="projection" policy="Duplicate"/>
+        <policy field="shape_pt_la" policy="Duplicate"/>
+        <policy field="shape_pt_lo" policy="Duplicate"/>
+        <policy field="googlemaps_" policy="Duplicate"/>
+        <policy field="gisfid" policy="Duplicate"/>
+        <policy field="type_of_ser" policy="Duplicate"/>
+        <policy field="hex_colour" policy="Duplicate"/>
+        <policy field="linestyle" policy="Duplicate"/>
+        <policy field="length_km" policy="Duplicate"/>
+      </duplicatePolicies>
+      <defaults>
+        <default expression="" field="trip_headsi" applyOnUpdate="0"/>
+        <default expression="" field="route_short" applyOnUpdate="0"/>
+        <default expression="" field="route_long_" applyOnUpdate="0"/>
+        <default expression="" field="departure_t" applyOnUpdate="0"/>
+        <default expression="" field="arrival_tim" applyOnUpdate="0"/>
+        <default expression="" field="last_depart" applyOnUpdate="0"/>
+        <default expression="" field="last_arriva" applyOnUpdate="0"/>
+        <default expression="" field="start_stopi" applyOnUpdate="0"/>
+        <default expression="" field="end_stopid" applyOnUpdate="0"/>
+        <default expression="" field="daysofweek" applyOnUpdate="0"/>
+        <default expression="" field="frequency_0" applyOnUpdate="0"/>
+        <default expression="" field="frequency_0_1" applyOnUpdate="0"/>
+        <default expression="" field="frequency_1" applyOnUpdate="0"/>
+        <default expression="" field="frequency_1_1" applyOnUpdate="0"/>
+        <default expression="" field="frequency_1_2" applyOnUpdate="0"/>
+        <default expression="" field="service_pro" applyOnUpdate="0"/>
+        <default expression="" field="easting" applyOnUpdate="0"/>
+        <default expression="" field="northing" applyOnUpdate="0"/>
+        <default expression="" field="projection" applyOnUpdate="0"/>
+        <default expression="" field="shape_pt_la" applyOnUpdate="0"/>
+        <default expression="" field="shape_pt_lo" applyOnUpdate="0"/>
+        <default expression="" field="googlemaps_" applyOnUpdate="0"/>
+        <default expression="" field="gisfid" applyOnUpdate="0"/>
+        <default expression="" field="type_of_ser" applyOnUpdate="0"/>
+        <default expression="" field="hex_colour" applyOnUpdate="0"/>
+        <default expression="" field="linestyle" applyOnUpdate="0"/>
+        <default expression="" field="length_km" applyOnUpdate="0"/>
+      </defaults>
+      <constraints>
+        <constraint notnull_strength="0" field="trip_headsi" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="route_short" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="route_long_" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="departure_t" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="arrival_tim" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="last_depart" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="last_arriva" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="start_stopi" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="end_stopid" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="daysofweek" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="frequency_0" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="frequency_0_1" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="frequency_1" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="frequency_1_1" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="frequency_1_2" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="service_pro" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="easting" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="northing" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="projection" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="shape_pt_la" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="shape_pt_lo" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="googlemaps_" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="gisfid" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="type_of_ser" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="hex_colour" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="linestyle" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="length_km" constraints="0" unique_strength="0" exp_strength="0"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" field="trip_headsi" exp=""/>
+        <constraint desc="" field="route_short" exp=""/>
+        <constraint desc="" field="route_long_" exp=""/>
+        <constraint desc="" field="departure_t" exp=""/>
+        <constraint desc="" field="arrival_tim" exp=""/>
+        <constraint desc="" field="last_depart" exp=""/>
+        <constraint desc="" field="last_arriva" exp=""/>
+        <constraint desc="" field="start_stopi" exp=""/>
+        <constraint desc="" field="end_stopid" exp=""/>
+        <constraint desc="" field="daysofweek" exp=""/>
+        <constraint desc="" field="frequency_0" exp=""/>
+        <constraint desc="" field="frequency_0_1" exp=""/>
+        <constraint desc="" field="frequency_1" exp=""/>
+        <constraint desc="" field="frequency_1_1" exp=""/>
+        <constraint desc="" field="frequency_1_2" exp=""/>
+        <constraint desc="" field="service_pro" exp=""/>
+        <constraint desc="" field="easting" exp=""/>
+        <constraint desc="" field="northing" exp=""/>
+        <constraint desc="" field="projection" exp=""/>
+        <constraint desc="" field="shape_pt_la" exp=""/>
+        <constraint desc="" field="shape_pt_lo" exp=""/>
+        <constraint desc="" field="googlemaps_" exp=""/>
+        <constraint desc="" field="gisfid" exp=""/>
+        <constraint desc="" field="type_of_ser" exp=""/>
+        <constraint desc="" field="hex_colour" exp=""/>
+        <constraint desc="" field="linestyle" exp=""/>
+        <constraint desc="" field="length_km" exp=""/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <reuseLastValue/>
+      <dataDefinedFieldProperties/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip enabled="1"></mapTip>
+    </maplayer>
+  </maplayers>
+</qlr>
